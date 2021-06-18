@@ -1,16 +1,16 @@
 #  Data Types
 ## Built-in Data Types
-**Text Type:**	str
-**Numeric Types:**	int, float, complex
-**Sequence Types:**	list, tuple, range
-**Mapping Type:**	dict
-**Set Types:**	set, frozenset
-**Boolean Type:**	bool
-**Binary Types:**	bytes, bytearray, memoryview
+**Text Type:**	str\
+**Numeric Types:**	int, float, complex\
+**Sequence Types:**	list, tuple, range\
+**Mapping Type:**	dict\
+**Set Types:**	set, frozenset\
+**Boolean Type:**	bool\
+**Binary Types:**	bytes, bytearray, memoryview\
 
 ## Setting the Data Type
 |Example|Data Type|
-|----|-----|----|
+|----|-----|
 |x = "Hello World"|str|
 |x = 20|int|
 |x = 20.5|float|

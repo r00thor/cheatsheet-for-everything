@@ -1,25 +1,25 @@
 # VIM Cheatsheets
 ## Command Useful
 ### Number Line
-** Config Number Line in the follow command **
+**Config Number Line in the follow command**
 ```vim
 :set number
 ```
 
 ### Tab Indent
-** Config Tab Indent in the follow command  **
+**Config Tab Indent in the follow command**
 ```vim
 :set shiftwidth=4
 :set sw=4
 ```
 
 ### Folding
-** Config Fold Method in the follow command **
+**Config Fold Method in the follow command**
 ```vim
 :set foldmethod=indent
 ```
 
-** Operate the Indents **
+**Operate the Indents**
 
 | Command | Value |
 | ------- | ----- |
