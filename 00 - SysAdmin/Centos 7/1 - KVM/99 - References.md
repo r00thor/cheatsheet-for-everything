@@ -1,1 +1,1 @@
-[Resize Root KVM Partition in RHEL/CentOS 7/8 Linux](https://www.golinuxcloud.com/resize-root-lvm-partition-extend-shrink-rhel/)
+[Resize Root KVM Partition in RHEL/CentOS 7/8 Linux](https://www.golinuxcloud.com/resize-root-lvm-partition-extend-shrink-rhel/)\
