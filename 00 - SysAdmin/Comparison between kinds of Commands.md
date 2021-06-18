@@ -2,9 +2,9 @@
 
 | Función | Linux Bash | Windows Powershell | Windows CMD |
 | :------ | :--------- | :----------------- | :---------- |
-| <font size="2">**Apagar Equipo**</font> | <font size="2">halt -o- poweroff -o- shutdown</font> |  |  |
-| <font size="2">**Reiniciar Equipo**</font> | <font size="2">reboot -o- shutdown -r now</font> |  |  |
-| <font size="2">**History**</font> | <font size="2">history</font> | <font size="2">Get-History</font> | <font size="2"></font> |
+| <font size="2">**Apagar Equipo**</font> | <font size="2">halt -o- poweroff -o- shutdown</font> | <font size="2">?</font> | <font size="2">?</font> |
+| <font size="2">**Reiniciar Equipo**</font> | <font size="2">reboot -o- shutdown -r now</font> | <font size="2">?</font> | <font size="2">?</font> |
+| <font size="2">**History**</font> | <font size="2">history</font> | <font size="2">Get-History</font> | <font size="2">?</font> |
 | <font size="2">**Clear Screen**</font> | <font size="2">clear</font> | <font size="2">Clear-Host</font> | <font size="2">cls</font> |
 | <font size="2">**List Files**</font> | <font size="2">ls</font> | <font size="2">Get-ChildItem</font> | <font size="2">dir</font> |
 | <font size="2">**Show Current Directory**</font> | <font size="2">pwd</font> | <font size="2">Get-Location</font> | <font size="2">?</font> |

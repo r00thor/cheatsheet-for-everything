@@ -7,9 +7,9 @@
 [Windows Registry](https://en.wikipedia.org/wiki/Windows_Registry)\
 [Windows's Process Explorer](https://en.wikipedia.org/wiki/Process_Explorer)\
 [Learn and use PowerShell with just three commands](https://www.youtube.com/watch?v=FiTZgpRpWv0&list=UU2iX3Hd2za22bOozudNZEuA&index=13&ab_channel=TechThoughts)\
-[Windows Powershell by John Hammond](https://www.youtube.com/watch?v=TUNNmVeyjW0&list=PL1H1sBF1VAKXqO_N3ZNP0aL15miJcUhw7&ab_channel=JohnHammond)\
+[Windows Powershell by John Hammond](https://www.youtube.com/watch?v=TUNNmVeyjW0&list=PL1H1sBF1VAKXqO_N3ZNP0aL15miJcUhw7&ab_channel=JohnHammond)
 
 ## Linux
 
 ## Both OS
-[File System](https://en.wikipedia.org/wiki/File_system)\
+[File System](https://en.wikipedia.org/wiki/File_system)
