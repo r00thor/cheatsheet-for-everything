@@ -3,7 +3,7 @@
 Let us see some useful commands for managing VMs.
 
 #### List all VMs
-` # virsh list --all `
+`# virsh list --all `
 
 #### Get VM info
 `# virsh dominfo vmName`

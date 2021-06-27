@@ -90,13 +90,13 @@
   "lastOpenFiles": [
     "00 - SysAdmin/Centos 7/1 - KVM/11 - Useful Commands.md",
     "00 - SysAdmin/Centos 7/1 - KVM/10 - Install & Configure KVM.md",
+    "00 - SysAdmin/Centos 7/1 - KVM/12 - Convert Existing VM to QEMU.md",
+    "00 - SysAdmin/Centos 7/1 - KVM/13 - Install New VM to KVM.md",
     "00 - SysAdmin/Centos 7/1 - KVM/99 - References.md",
+    "00 - SysAdmin/Resources.md",
+    "00 - SysAdmin/Comparison between kinds of Commands.md",
     "00 - SysAdmin/Centos 7/1 - KVM/Untitled.md",
     "00 - SysAdmin/Centos 7/1 - KVM/10 - Install KVM.md",
-    "00 - SysAdmin/Centos 7/1 - KVM/11 - Convert Existing VM to QEMU.md",
-    "00 - SysAdmin/Centos 7/1 - KVM/12 - Install New VM to KVM.md",
-    "00 - SysAdmin/Windows/Powershell/02 - Windows Enumeration.md",
-    "00 - SysAdmin/Windows/Powershell/01 - Important Things about Powershell that You must Learn.md",
-    "00 - SysAdmin/Resources.md"
+    "00 - SysAdmin/Centos 7/1 - KVM/11 - Convert Existing VM to QEMU.md"
   ]
 }
