@@ -3,7 +3,6 @@
 $ lscpu | grep Virtualization
 Virtualization: VT-x
 ```
-
 ## 1. Install KVM
 ```
 # yum install qemu-kvm libvirt libvirt-python libguestfs-tools virt-install kvm
@@ -13,12 +12,10 @@ Virtualization: VT-x
 # systemctl enable libvirtd  
 # systemctl start libvirtd
 ```
-
 ## 2. Verify kvm installation
 ```
 # lsmod | grep -i kvm
 ```
-
 ## 3. Configure bridged networking
 ```
 # brctl show
